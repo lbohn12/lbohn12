@@ -13,8 +13,9 @@ I run **Plant Powered Pixels**, a small web and app studio in Los Angeles. The f
 
 ### Selected work
 
-- **[super.ucla.edu](https://super.ucla.edu)** is the public site for a statewide substance-use prevention resource used by providers across California. I run it end to end: content (with the team), WordPress/JetEngine CMS, search, hosting, and analytics. I also built its grant-application portal for the California Services to Science Academy Cohort 2, including the data pipeline and reviewer portal. Soon, the buildout of a grantee portal will be complete.
+- **[super.ucla.edu](https://super.ucla.edu)** is the public site for a statewide substance-use prevention resource used by providers across California. I'm a web developer and researcher on the project: I build and maintain the site and the tools behind it, including the WordPress/JetEngine CMS, search, hosting, and analytics. I also built its grant-application portal for the California Services to Science Academy Cohort 2, including the data pipeline and the reviewer portal. A grantee portal is in progress.
 - **Plant Powered Pixels** builds accessibility-first sites and does source-level remediation for small businesses.
+- **[Accessibility Sandbox](https://lbohn12.github.io/remediation-workshop/)** is a hands-on teaching site for accessibility remediation: a WCAG contrast checker and a broken-then-fixed grant portal to repair.
 - **[workshop-lms-starter](https://github.com/lbohn12/workshop-lms-starter)** is an open-source, self-hostable LMS starter (React 19 + Firebase) with a zero-config demo mode.
 
 ### Published Academic Articles
@@ -22,4 +23,4 @@ I run **Plant Powered Pixels**, a small web and app studio in Los Angeles. The f
 - Bohn, Wilking, and Roll (2025). *The Effect of Noncongregate Emergency Shelters on Occupant Well-Being.* **Public Health Reports**.
 - Bohn (2025). *Breaking the Cycle: Why Jails Could Prevent Hate Crimes Before They Happen.* UCLA Initiative to Study Hate.
 
-Los Angeles · bohnlincoln@gmail.com
+Los Angeles · [lbohn.info](https://lbohn.info) · bohnlincoln@gmail.com
