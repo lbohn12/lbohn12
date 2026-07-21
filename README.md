@@ -23,4 +23,4 @@ I run **Plant Powered Pixels**, a small web and app studio in Los Angeles. The f
 - Bohn, Wilking, and Roll (2025). *The Effect of Noncongregate Emergency Shelters on Occupant Well-Being.* **Public Health Reports**.
 - Bohn (2025). *Breaking the Cycle: Why Jails Could Prevent Hate Crimes Before They Happen.* UCLA Initiative to Study Hate.
 
-Los Angeles · [lbohn.info](https://lbohn.info) · bohnlincoln@gmail.com
+Los Angeles · [lbohn.info](https://lbohn.info)
