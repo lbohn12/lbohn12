@@ -2,7 +2,7 @@
 
 I build accessible, well-made websites, tools, and the data pipelines behind them.
 
-I run **Plant Powered Pixels** with my Husband, a small web and app studio in Los Angeles. The focus is accessibility done honestly: fixing problems at the source in real code, not bolting on an overlay "compliance" widget. By day I'm a mixed-methods research associate at UCLA Integrated Substance Use and Addiction Programs (ISAP), where I turn messy human data into public tools people actually use.
+By day I'm a mixed-methods research associate at UCLA Integrated Substance Use and Addiction Programs (ISAP), where I turn messy human data into public tools people actually use. Additionally, I run **Plant Powered Pixels** with my Husband, a small web and app studio in Los Angeles. The focus is accessibility done honestly: fixing problems at the source in real code, not bolting on an overlay "compliance" widget.
 
 ### What I do
 
